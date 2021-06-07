@@ -1,7 +1,0 @@
-{
-    "editor.mouseWheelZoom": true,
-    "diffEditor.wordWrap": "on",
-    "editor.fontSize": 22,
-    "liveServer.settings.ChromeDebuggingAttachment": false,
-    "liveServer.settings.CustomBrowser": "chrome",
-}
